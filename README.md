@@ -10,6 +10,7 @@ Here you can find some of works that I am still maintaining.
 - FreeIPAPI [https://freeipapi.com]
 - YeCoder [https://yecoder.com]
 - Laravel Monitoring [https://github.com/saeedvaziry/laravel-monitoring]
+- Laravel IP2Location [https://github.com/saeedvaziry/ip2location]
 
 <!--
 **saeedvaziry/saeedvaziry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
