@@ -12,3 +12,4 @@ Here you can find some of the work that I am still maintaining.
 - YeCoder [https://yecoder.com]
 - Laravel Monitoring [https://github.com/saeedvaziry/laravel-monitoring]
 - Laravel IP2Location [https://github.com/saeedvaziry/ip2location]
+- Laravel Async [https://github.com/saeedvaziry/laravel-async]
