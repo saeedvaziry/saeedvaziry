@@ -7,7 +7,7 @@ I am a full-time employee and don't have much time to code but I use every singl
 Here you can find some of the work that I am still maintaining.
 
 - VitoDeploy [https://vitodeploy.com]
-- TweakPHP [https://github.com/tweakphp/tweakphp]
+- TweakPHP [https://tweakphp.com]
 - FreeIPAPI [https://freeipapi.com]
 - YeCoder [https://yecoder.com]
 - Laravel Monitoring [https://github.com/saeedvaziry/laravel-monitoring]
