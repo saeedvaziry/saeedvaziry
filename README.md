@@ -10,6 +10,8 @@ I am a full-time employee and don't have much time to code but I use every singl
 
 - VitoDeploy [https://vitodeploy.com]
 - TweakPHP [https://tweakphp.com]
+- Capty [https://capty.app]
+- Wigify [https://github.com/wigify/wigify]
 
 **Support and bug fixes only**
 
