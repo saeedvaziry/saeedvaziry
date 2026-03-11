@@ -23,3 +23,8 @@ I am a full-time employee and don't have much time to code but I use every singl
 
 - FreeIPAPI [https://freeipapi.com]
 - Capty [https://capty.app]
+- Waitlio [https://waitlio.com]
+
+## Fun Projects
+
+- Chilluzzle [https://chilluzzle.com]
