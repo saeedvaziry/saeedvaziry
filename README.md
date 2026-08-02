@@ -12,7 +12,7 @@ I am a full-time employee and don't have much time to code but I use every singl
 - Draftila [https://draftila.com]
 - Muxy [https://github.com/muxy-app/muxy]
 - TweakPHP [https://tweakphp.com]
-- Wigify [https://github.com/wigify/wigify]
+- FreeDraw [https://freedraw.dev]
 
 **Support and bug fixes only**
 
