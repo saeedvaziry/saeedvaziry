@@ -9,8 +9,9 @@ I am a full-time employee and don't have much time to code but I use every singl
 **Actively maintained**
 
 - VitoDeploy [https://vitodeploy.com]
-- Draftila [https://draftila.com]
+- Capty [https://capty.app]
 - Muxy [https://github.com/muxy-app/muxy]
+- Draftila [https://draftila.com]
 - TweakPHP [https://tweakphp.com]
 - FreeDraw [https://freedraw.dev]
 
@@ -24,7 +25,6 @@ I am a full-time employee and don't have much time to code but I use every singl
 ## Paid and Commercial Projects
 
 - FreeIPAPI [https://freeipapi.com]
-- Capty [https://capty.app]
 - Waitlio [https://waitlio.com]
 
 ## Fun Projects
