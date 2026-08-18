@@ -14,6 +14,7 @@ I am a full-time employee and don't have much time to code but I use every singl
 - Draftila [https://draftila.com]
 - TweakPHP [https://tweakphp.com]
 - FreeDraw [https://freedraw.dev]
+- Xal [https://xal.sh]
 
 **Support and bug fixes only**
 
