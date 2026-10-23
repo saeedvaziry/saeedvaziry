@@ -10,12 +10,13 @@ I am a full-time employee and don't have much time to code but I use every singl
 
 - VitoDeploy [https://vitodeploy.com]
 - Capty [https://capty.app]
-- Muxy [https://github.com/muxy-app/muxy]
+- Muxy [https://muxy.app]
 - Draftila [https://draftila.com]
 - TweakPHP [https://tweakphp.com]
 - FreeDraw [https://freedraw.dev]
 - Xal [https://xal.sh]
 - SwiftVM [https://swiftvm.app]
+- CleanLogi [https://github.com/saeedvaziry/cleanlogi]
 
 **Support and bug fixes only**
 
